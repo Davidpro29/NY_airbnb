@@ -9,3 +9,4 @@ Respondendo perguntas do CEO sobre algumas situações.
 
 Através do google colab fiz as consultas utilizando pandas, numpy e io.
 
+![New_York_City_](https://user-images.githubusercontent.com/89535654/209159069-579a3fd6-2d38-4c4d-9b21-8a902fdae742.png)
