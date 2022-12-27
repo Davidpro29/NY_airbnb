@@ -38,4 +38,10 @@ Respondendo questões utilizando mapas com folium:
 
 1 - Onde estão localizados os imóveis mais caros da Região?
 
+
+![localizacaoAps](https://user-images.githubusercontent.com/89535654/209672486-9ef01178-d66c-4956-b24d-ad5fab197a5c.png)
+
 2 - Onde está localizado os imóveis pelo seu tipo?
+
+![todosImoveis](https://user-images.githubusercontent.com/89535654/209672516-79d2f423-0f69-444c-a2b1-c7349856280b.jpg)
+
