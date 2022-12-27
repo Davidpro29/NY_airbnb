@@ -26,5 +26,10 @@ R: A variação é de $196,99 em média.
 R: Os imóveis estão concentrados entre US50 e $99 
 R: Existem 13.883 imóveis no valor entre U$50 e $99 
 
+
+![hist_imoveis-1000](https://user-images.githubusercontent.com/89535654/209661119-21f29af8-e5eb-47bb-8ead-a11d38648833.png)
+
 5 - Qual é a distribuição de número de reviews? Existem imóveis com muitos ou com poucos reviews?
 R: Existem muitos imóveis com poucas avaliações e poucos imóveis com muitas avaliações.
+
+![hist_imoveis](https://user-images.githubusercontent.com/89535654/209661108-dd0ca667-57a0-4e77-be74-e977f210ff5d.png)
