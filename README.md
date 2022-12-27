@@ -10,3 +10,26 @@ Respondendo perguntas do CEO sobre algumas situações.
 Através do google colab fiz as consultas utilizando pandas, numpy e io.
 
 ![New_York_City_](https://user-images.githubusercontent.com/89535654/209159069-579a3fd6-2d38-4c4d-9b21-8a902fdae742.png)
+
+Outras perguntas e respostas com o uso da estatística básica e o histograma.
+
+1 - Quais são as categorias de imóveis cadastradas
+R: 'Entire home/apt', 'Private room', 'Shared room'.
+
+2 - Quantos usuários (hosts) únicos cadastrados existem na cidade de NY?
+R: Seria 30232.
+
+3 - Como é a variação de preço dos imóveis do banco de dados?
+R: A variação é de $196,99 em média.
+
+4 - Existem mais imóveis baratos ou caros?
+R: Os imóveis estão concentrados entre US50 e $99 
+R: Existem 13.883 imóveis no valor entre U$50 e $99 
+
+
+![hist_imoveis-1000](https://user-images.githubusercontent.com/89535654/209661119-21f29af8-e5eb-47bb-8ead-a11d38648833.png)
+
+5 - Qual é a distribuição de número de reviews? Existem imóveis com muitos ou com poucos reviews?
+R: Existem muitos imóveis com poucas avaliações e poucos imóveis com muitas avaliações.
+
+![hist_imoveis](https://user-images.githubusercontent.com/89535654/209661108-dd0ca667-57a0-4e77-be74-e977f210ff5d.png)
