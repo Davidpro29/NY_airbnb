@@ -33,3 +33,9 @@ R: Existem 13.883 imóveis no valor entre U$50 e $99
 R: Existem muitos imóveis com poucas avaliações e poucos imóveis com muitas avaliações.
 
 ![hist_imoveis](https://user-images.githubusercontent.com/89535654/209661108-dd0ca667-57a0-4e77-be74-e977f210ff5d.png)
+
+Respondendo questões utilizando mapas com folium:
+
+1 - Onde estão localizados os imóveis mais caros da Região?
+
+2 - Onde está localizado os imóveis pelo seu tipo?
